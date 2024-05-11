@@ -20,13 +20,13 @@
 				own code!
 			</p>
 		</Card>
-		<Card class="mr-16 text-black" href="TODO" target="_blank">
+		<Card class="mr-16 text-black">
 			<h5 class="mb-2 text-xl font-bold">Discord</h5>
 			<p class="text-xl leading-tight">
 				Have a quick question or just want to chat about Maycoon? Then join our Discord Server!
 			</p>
 		</Card>
-		<Card class="text-black" href="TODO" target="_blank">
+		<Card class="text-black">
 			<h5 class="mb-2 text-xl font-bold">More???</h5>
 			<p class="text-xl leading-tight">???</p>
 		</Card>
