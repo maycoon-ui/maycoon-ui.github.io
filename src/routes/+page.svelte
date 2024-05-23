@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Nav from '$lib/components/Nav.svelte';
-	import { Card } from 'flowbite-svelte';
+	import { Button, Card, GradientButton } from 'flowbite-svelte';
 </script>
 
 <Nav />
@@ -15,23 +15,40 @@
 		<div>with Maycoon!</div>
 	</div>
 
-	<div class="cards mt-72 flex">
+	<div class="mt-12 flex place-content-center">
+		<GradientButton class="m-10 w-60 p-1" href="./guide" outline color="purpleToBlue"
+			><h1 class="text-2xl">Getting Started</h1></GradientButton
+		>
+
+		<GradientButton
+			class="m-10 w-60 p-1"
+			href="https://www.github.com/maycoon-ui/maycoon"
+			target="_blank"
+			outline
+			color="purpleToBlue"><h1 class="text-2xl">GitHub</h1></GradientButton
+		>
+	</div>
+
+	<div class="cards mt-24 flex">
 		<Card class="mr-16 text-black">
 			<h5 class="mb-2 text-2xl font-bold">Beautiful</h5>
 			<p class="text-xl leading-tight">
-				Use a palette of well-designed and beautiful built-in Widgets to design your dream UI.
+				Utilize a large collection of fast, well-designed & beautiful built-in Widgets to design the
+				perfect User Interface.
 			</p>
 		</Card>
 		<Card class="mr-16 text-black">
 			<h5 class="mb-2 text-2xl font-bold">Plug'n'Play</h5>
 			<p class="text-xl leading-tight">
-				Add Maycoon to your Cargo Project and start playing around without extra dependencies.
+				Simply add Maycoon to your Rust Project and start playing around. No extra dependencies
+				needed.
 			</p>
 		</Card>
 		<Card class="text-black">
 			<h5 class="mb-2 text-2xl font-bold">Powered by Performance</h5>
 			<p class="text-xl leading-tight">
-				Maycoon utilized the GPU and parallel task execution to make your App lightning fast.
+				Maycoon uses the GPU for fast 2D Rendering and the CPU for parallel Task Execution and fast
+				App Logic.
 			</p>
 		</Card>
 	</div>
