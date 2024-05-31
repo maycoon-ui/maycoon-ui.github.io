@@ -79,7 +79,7 @@
 			<h5 class="mb-2 text-xl font-bold">How does Maycoon work under the hood?</h5>
 			<p class="text-xl leading-tight">
 				We use modern technology such as <a
-					href="https://github.com/femtovg/femtovg"
+					href="https://github.com/linebender/vello"
 					target="_blank">Modern GPU-powered Vector Graphics</a
 				>, async task execution and the <a href="https://rust-lang.org" target="_blank">Rust</a> Programming
 				language.
