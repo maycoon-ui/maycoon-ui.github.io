@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import { Button, GradientButton } from 'flowbite-svelte';
+	import { GradientButton } from 'flowbite-svelte';
 </script>
 
 <main class="grid place-content-center">

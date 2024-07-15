@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Nav from '$lib/components/Nav.svelte';
-	import { Button, Card, GradientButton } from 'flowbite-svelte';
+	import { Card, GradientButton } from 'flowbite-svelte';
 </script>
 
 <Nav />
