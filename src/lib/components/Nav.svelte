@@ -11,7 +11,7 @@
 	<NavUl>
 		<NavLi href="/" class="text-2xl">Home</NavLi>
 		<NavLi href="/about" class="text-2xl">About</NavLi>
-		<NavLi href="/guide" class="text-2xl">Guide</NavLi>
+		<NavLi href="https://maycoon-ui.github.io/guide" class="text-2xl">Guide</NavLi>
 		<NavLi href="https://docs.rs/maycoon" target="_blank" class="text-2xl">Docs</NavLi>
 		<NavLi href="/community" class="text-2xl">Community</NavLi>
 	</NavUl>
