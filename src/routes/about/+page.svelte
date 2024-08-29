@@ -71,8 +71,8 @@
 			<h5 class="mb-2 text-xl font-bold">Who develops Maycoon?</h5>
 			<p class="text-xl leading-tight">
 				Maycoon is mainly developed by <a href="https://drafteddev.github.io" target="_blank"
-					>Mikail Plotzky</a
-				> and any Maycoon contributors. Feel free to join us on our journey and add your awesome code!
+					>Mikail Plotzky (DraftedDev)</a
+				> and Maycoon contributors. Feel free to join us on our journey and add your awesome code!
 			</p>
 		</Card>
 		<Card class="mr-16 text-black">
