@@ -16,8 +16,11 @@
 	</div>
 
 	<div class="mt-12 flex place-content-center">
-		<GradientButton class="m-10 w-60 p-1" href="./guide" outline color="purpleToBlue"
-			><h1 class="text-2xl">Getting Started</h1></GradientButton
+		<GradientButton
+			class="m-10 w-60 p-1"
+			href="https://maycoon-ui.github.io/guide"
+			outline
+			color="purpleToBlue"><h1 class="text-2xl">Getting Started</h1></GradientButton
 		>
 
 		<GradientButton
