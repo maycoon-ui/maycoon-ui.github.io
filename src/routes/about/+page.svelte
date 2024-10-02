@@ -29,8 +29,8 @@
 			<h5 class="mb-2 text-xl font-bold">Why use Rust?</h5>
 			<p class="text-xl leading-tight">
 				Maycoon is coded in Rust for optimal performance. While not ideal for UI work, Rust is
-				perfect for performance and efficient memory efficiency. We also think about making bindings
-				to other languages like Python or C/C++.
+				perfect for performance and memory efficiency. We also think about making bindings to other
+				languages like Python or C/C++.
 			</p>
 		</Card>
 	</div>
