@@ -20,7 +20,7 @@
 			class="m-10 w-60 p-1"
 			href="https://maycoon-ui.github.io/guide"
 			outline
-			color="purpleToBlue"><h1 class="text-2xl">Getting Started</h1></GradientButton
+			color="purpleToBlue"><h2 class="text-2xl">Getting Started</h2></GradientButton
 		>
 
 		<GradientButton
@@ -28,7 +28,7 @@
 			href="https://www.github.com/maycoon-ui/maycoon"
 			target="_blank"
 			outline
-			color="purpleToBlue"><h1 class="text-2xl">GitHub</h1></GradientButton
+			color="purpleToBlue"><h2 class="text-2xl">GitHub</h2></GradientButton
 		>
 	</div>
 
