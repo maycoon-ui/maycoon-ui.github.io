@@ -7,12 +7,12 @@
 
 <Nav />
 <main class="grid place-content-center">
-	<div class="title flex justify-center text-6xl">
+	<div class="title flex justify-center pt-24 text-6xl">
 		Welcome to
 		<div class="gradient-title text-white">Maycoon</div>
 	</div>
 
-	<div class="cards mt-20 flex">
+	<div class="cards mt-24 flex">
 		<Card class="mr-16 text-black" href="https://github.com/maycoon-ui/maycoon" target="_blank">
 			<h5 class="mb-2 text-xl font-bold">GitHub</h5>
 			<p class="text-xl leading-tight">
@@ -20,7 +20,7 @@
 				own code!
 			</p>
 		</Card>
-		<Card class="mr-16 text-black">
+		<Card class="mr-16 text-black" href="https://discord.com/invite/w2DWtNDfSH" target="_blank">
 			<h5 class="mb-2 text-xl font-bold">Discord</h5>
 			<p class="text-xl leading-tight">
 				Have a quick question or just want to chat about Maycoon? Then join our Discord Server!
