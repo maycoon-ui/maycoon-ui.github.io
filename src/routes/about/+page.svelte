@@ -47,7 +47,7 @@
 		<Card class="mr-16 text-black">
 			<h5 class="mb-2 text-xl font-bold">What are alternatives?</h5>
 			<p class="text-xl leading-tight">
-				There are some nice UI frameworks to develop fast Apps in Rust. Notably
+				There are some other nice UI frameworks to develop Apps in Rust. Notably
 				<a href="https://github.com/emilk/egui" target="_blank">egui</a> or
 				<a href="https://github.com/iced-rs/iced" target="_blank">iced</a>. If you want some
 				Non-Rust alternatives, then you may be interested in
@@ -71,16 +71,15 @@
 			<h5 class="mb-2 text-xl font-bold">Who develops Maycoon?</h5>
 			<p class="text-xl leading-tight">
 				Maycoon is mainly developed by <a href="https://drafteddev.github.io" target="_blank"
-					>Mikail Plotzky (DraftedDev)</a
+					>DraftedDev</a
 				> and Maycoon contributors. Feel free to join us on our journey and add your awesome code!
 			</p>
 		</Card>
 		<Card class="mr-16 text-black">
 			<h5 class="mb-2 text-xl font-bold">How does Maycoon work under the hood?</h5>
 			<p class="text-xl leading-tight">
-				We use modern technology such as <a
-					href="https://github.com/linebender/vello"
-					target="_blank">Modern GPU-powered Vector Graphics</a
+				We use technology like <a href="https://github.com/linebender/vello" target="_blank"
+					>GPU-powered Vector Graphics</a
 				>, async task execution and the <a href="https://rust-lang.org" target="_blank">Rust</a> Programming
 				language.
 			</p>
